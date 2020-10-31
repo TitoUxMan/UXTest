@@ -1,3 +1,3 @@
 # UXTest
 
-DiT iS eEn TeSt ReAdMe.
+Dit is een test Readme file
